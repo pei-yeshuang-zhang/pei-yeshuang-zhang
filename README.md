@@ -1,4 +1,4 @@
-[![MasterHead](./product_30565_product_shot_wide.jpg)](https://github.com/pei-yeshuang-zhang/pei-yeshuang-zhang.git)
+[![MasterHead](./happycoding.png)](https://github.com/pei-yeshuang-zhang/pei-yeshuang-zhang.git)
 <h1 align="center">Hi 👋, I'm Pei Zhang</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
 <img align="right" width="400" alt="coding-gif" src="./43KV.gif">
