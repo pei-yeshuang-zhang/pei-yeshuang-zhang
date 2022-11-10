@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, AWS**
 
-- 💬 Ask me about **react, node.js, material UI**
+- 💬 Chat with me about **Hiking, Rock climbing, Badminton, Food, Music, Movie, Game**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pei-zhang-a7341924b/](https://www.linkedin.com/in/pei-zhang-a7341924b/)
 
