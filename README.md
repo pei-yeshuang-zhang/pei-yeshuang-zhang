@@ -1,4 +1,4 @@
-[![MasterHead](./happycoding-purple.png)](https://github.com/pei-yeshuang-zhang/pei-yeshuang-zhang.git)
+[![MasterHead](./kindergarten-coding-header.jpg)](https://github.com/pei-yeshuang-zhang/pei-yeshuang-zhang.git)
 <h1 align="center">Hi 👋, I'm Pei Zhang</h1>
 <h3 align="center">A passionate full-stack developer from New Zealand</h3>
 <img align="right" width="200" alt="coding-gif" src="./7J1M.gif">
