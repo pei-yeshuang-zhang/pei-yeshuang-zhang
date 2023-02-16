@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my-full-stack-movie-collection](https://github.com/pei-yeshuang-zhang/my-full-stack-movie-collection)
 
-- 🌱 I’m currently learning **TypeScript, AWS**
+- 🌱 I’m currently learning **Java, Salesforce**
 
 - 💬 Chat with me about **Hiking, Rock climbing, Badminton, Food, Music, Movie, Game**
 
